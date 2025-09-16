@@ -1,2 +1,2 @@
-HOLA GENCAT
+Hola que tal
 4.A
